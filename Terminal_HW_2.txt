@@ -23,7 +23,6 @@ cat > tf_2.txt
 - the second 2
 - the third 3
 #записываем строку "ctrl+C" или "^D"
-
 7. Зайти в папку inner_dir_1
 cd inner_dir_1
 
